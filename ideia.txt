@@ -1,0 +1,11 @@
+Task Manager:
+
+Endpoints:
+GetTask - Retorna uma lista de todas as tarefas. Ok
+GetTaskId - Retorna detalhes de uma tarefa especifica com base no id.
+PostTask - Cria uma nova tarefa com base em dados fornecidos no corpo da requisição. Ok
+PutTaskid - Atualiza os detalhes de uma tarefa existente com base no id e no dados fornecidos no corpo da requisição. Ok
+DeleteTaskId - Exclui uma tarefa especifica com base no id. Ok
+
+Tarefa:
+Id, Titulo, Descrição, Status, data de criação, data de alteração.
